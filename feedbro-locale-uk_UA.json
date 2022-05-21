@@ -1,3 +1,4 @@
+{
     "meta": {
         "manifest_version": 1,
         "locale_version": "1.0",
@@ -9,3 +10,4 @@
         "locale_source_url": "https://raw.githubusercontent.com/aytvill/Feedbro-locale/master/feedbro-locale-ua_UA.json"
     },
 
+}
