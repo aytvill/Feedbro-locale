@@ -9,5 +9,19 @@
         "locale_author_email": "aytvill@protonmail.com",
         "locale_source_url": "https://raw.githubusercontent.com/aytvill/Feedbro-locale/master/feedbro-locale-ua_UA.json"
     },
-
+    "addfeed_url_body": "URL-адреса стрічки новин:",
+    "addfeed_load_body": "Загрузити",
+    "addfeed_title_body": "Назва:",
+    "addfeed_latestentry_body": "Остання новина опублікована:",
+    "addfeed_status_body": "Статус:",
+    "addfeed_maxitems_body": "Максимум новин для збереження:",
+    "addfeed_maxitems_select_title": "Максимальна кількість новин (статей), зберігаємих з однієї стрічки. Найстаріші новини автоматично видаляються.",
+    "addfeed_maxitems_default_body": "за замовчуванням",
+    "addfeed_entrycontent_body": "Зміст новини стрічки:",
+    "addfeed_entrycontent_select_title": "Оберіть, як опрацьовувати зміст новини.",
+    "addfeed_entrycontent_select_asis_body": "Як є, без змін",
+    "addfeed_entrycontent_select_asis_title": "Визначається налаштуваннями стрічки новин.",
+    "addfeed_entrycontent_select_fulltextimage_body": "Отримати повний текст із основним зображенням",
+    "addfeed_entrycontent_select_fulltextimage_title": "Це повільний і неточний спосіб обробки всього змісту із джерела. Використовуйте це, якщо вам так буде зручно. Кожне джерело викликає окремий HTTP GET запит. Але це працює не з усіма сайтами. Основне зображення береться із og:image метаданих.",
+    "addfeed_entrycontent_select_fulltext_body": "Отримати повний текст",
 }
